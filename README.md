@@ -28,7 +28,5 @@ We train separate models on each region of interest of the face and compare the 
 
 ![Individual Feature Prediction](plots/individual_predictions.png)
 
-## Repository Structure
-
 ## Contact
 For any questions or feedback, please contact Ahmed Aman Ibrahim at ahmedamanibrahim@gmail.com
